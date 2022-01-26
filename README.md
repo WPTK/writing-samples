@@ -1,4 +1,4 @@
-Welcome to my GitHub! I use this repo to showcase various content I've created in my career. 
+Welcome to my GitHub! I use this repo to showcase various content I've created thoughout my career in Healthcare, Insurace, Biotech, and Tech.
 
 You can find me on [LinkedIn](www.linkedin.com/in/williampkane) or you can just download a copy of my [resume](examples/William%20Kane_Resume.pdf) here!
 
