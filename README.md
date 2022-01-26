@@ -14,6 +14,6 @@ Note: Downloading files may make them easier to view. Depending on your resoluti
 *
 
 #### FAQs and Other Support Documents
-* [Property& Casualty Insurance FAQ](/examples/Call%20Team%20FAQ.pdf))
+* [Property & Casualty Insurance FAQ](/examples/Call%20Team%20FAQ.pdf)
 * [Call Center Scheduling Optimization](/examples/Call%20Scheduling%20Optimization.pdf)
 
