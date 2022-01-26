@@ -11,8 +11,9 @@ Note: Downloading files may make them easier to view. Depending on your resoluti
 #### Technical Writing Samples
 * 
 #### Instructional Design
-* 
+*
 
 #### FAQs and Other Support Documents
-* [enter link description here](/examples/Call%20Scheduling%20Optimization.pdf)
+* [Property& Casualty Insurance FAQ](/examples/Call%20Team%20FAQ.pdf))
+* [Call Center Scheduling Optimization](/examples/Call%20Scheduling%20Optimization.pdf)
 
