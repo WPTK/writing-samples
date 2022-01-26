@@ -18,9 +18,9 @@ Note: Downloading files may make them easier to view. Depending on your resoluti
 * [Outbound Team Terminal and Enabling Learning Objectives](examples/Call%20Team%20Learning%20Objectives.pdf)
 * [Overcoming Common Objections Handout](examples/Common%20Objections.pdf)
 * Be an Effective Trainer
- - [Slides Only](examples/Be%20An%20Effective%20Trainer%20-%20Slides%20Only.pdf)
- - [Notes](examples/Be%20An%20Effective%20Trainer%20-%20Notes%20Pages.pdf) 
-
+  - [Slides Only](examples/Be%20An%20Effective%20Trainer%20-%20Slides%20Only.pdf)
+  - [Notes](examples/Be%20An%20Effective%20Trainer%20-%20Notes%20Pages.pdf) 
+ 
 #### FAQs and Other Support Documents
 * [Property & Casualty Insurance FAQ](/examples/Call%20Team%20FAQ.pdf)
 * [Call Center Scheduling Optimization](/examples/Call%20Scheduling%20Optimization.pdf)
