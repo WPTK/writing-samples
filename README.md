@@ -1,6 +1,6 @@
 Welcome to my GitHub! I use this repo to showcase various content I've created in my career. 
 
-You can find me on [LinkedIn](www.linkedin.com/in/williampkane) or you can just download a copy of my [resume](examples/William%20Kane_Resume.pdf)here!
+You can find me on [LinkedIn](www.linkedin.com/in/williampkane) or you can just download a copy of my [resume](examples/William%20Kane_Resume.pdf) here!
 
 #### Quick Experience Rundown
 * 6 years designing instructional material for learners, facilitators, and leaders in the healthcare space. Also led training sessions ranging from 1 hour to 10 weeks. 
