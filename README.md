@@ -1,5 +1,7 @@
 Welcome to my GitHub! I use this repo to showcase various content I've created in my career. 
 
+You can find me on [LinkedIn](www.linkedin.com/in/williampkane) as well!
+
 #### Quick Experience Rundown
 * 6 years designing instructional material for learners, facilitators, and leaders in the healthcare space. Also led training sessions ranging from 1 hour to 10 weeks. 
 * 5 years creating FAQs and Support pages to support multi-location call centers
@@ -25,3 +27,9 @@ Note: Downloading files may make them easier to view. Depending on your resoluti
 * [Property & Casualty Insurance FAQ](/examples/Call%20Team%20FAQ.pdf)
 * [Call Center Scheduling Optimization](/examples/Call%20Scheduling%20Optimization.pdf)
 
+
+
+
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWPTK%2Fwriting-samples&count_bg=%23A8A8A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=true)](https://hits.seeyoufarm.com)
