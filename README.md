@@ -10,10 +10,13 @@ You can find me on [LinkedIn](www.linkedin.com/in/williampkane) or you can just 
 
 Note: Downloading files may make them easier to view. Depending on your resolution, they may look rather large due to Github's formatting.
 
-#### Technical Writing Samples
+#### Technical / Content Writing Samples
 * [Managing General Agency Distribution Channels](/examples/Distribution%20Channels%20Explained.pdf)
 * [New Sales Position Analysis](examples/New%20Sales%20Position%20Analysis.pdf)
 * [Salesforce Classic Lead Creation Process](examples/Salesforce%20Lead%20Creation%20Process.pdf)
+* [Call Quality Team Manual](examples/Call%20Quality%20Team%20Manual_final.pdf)
+* [Quality Assurance Team Role Analysis & Implementation Review](examples/QA%20Team%20Implementation.pdf)
+* [Customer Facing Billing Email](examples/Check%20Paid%20to%20Patient%20Macro_final.pdf)
 
 #### Instructional Design
 * [Introducing Yourself & Making The Connection](examples/Call%20Team%20Intro%20%20Connection_Working%20Draft.pdf) 
@@ -26,6 +29,7 @@ Note: Downloading files may make them easier to view. Depending on your resoluti
 #### FAQs and Other Support Documents
 * [Property & Casualty Insurance FAQ](/examples/Call%20Team%20FAQ.pdf)
 * [Call Center Scheduling Optimization](/examples/Call%20Scheduling%20Optimization.pdf)
+* [How to Disupute/Appeal an Interaction in RingCentral](examples/RingCentral%20Call%20Quality%20Appeals%20Process.pdf)
 
 
 
