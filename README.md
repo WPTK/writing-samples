@@ -14,5 +14,5 @@ Note: Downloading files may make them easier to view. Depending on your resoluti
 * 
 
 #### FAQs and Other Support Documents
-* [link text](writing-samples/examples/Call Scheduling Optimization.pdf "ALT TEXT")
+* [Test](/examples/Call Scheduling Optimization.pdf "ALT TEXT")
 
