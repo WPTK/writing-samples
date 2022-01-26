@@ -14,5 +14,5 @@ Note: Downloading files may make them easier to view. Depending on your resoluti
 * 
 
 #### FAQs and Other Support Documents
-* [Test](wptk/writing-samples/examples/Call Scheduling Optimization.pdf "ALT TEXT")
+* [enter link description here](/examples/Call%20Scheduling%20Optimization.pdf)
 
