@@ -6,9 +6,14 @@ Welcome to my GitHub! I use this repo to showcase various content I've created i
 * 10 years designing various materials such as sales training exercises, soft skills training courses, workbooks, handouts, posters, indices, and wiki pages. 
 * Proficient in Visio, PowerPoint, Excel, and Word (add various call center systems)
 
+Note: Downloading files may make them easier to view. Depending on your resolution, they may look rather large due to Github's formatting.
+
 #### Technical Writing Samples
 * 
 #### Instructional Design
-* 
+*
 
-#### FAQs and
+#### FAQs and Other Support Documents
+* [Property & Casualty Insurance FAQ](/examples/Call%20Team%20FAQ.pdf)
+* [Call Center Scheduling Optimization](/examples/Call%20Scheduling%20Optimization.pdf)
+
