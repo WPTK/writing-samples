@@ -21,10 +21,13 @@ Note: Downloading files may make them easier to view. Depending on your resoluti
 #### Instructional Design
 * [Introducing Yourself & Making The Connection](examples/Call%20Team%20Intro%20%20Connection_Working%20Draft.pdf) 
 * [Outbound Team Terminal and Enabling Learning Objectives](examples/Call%20Team%20Learning%20Objectives.pdf)
+* [TLO & ELO for Full Day Learning Event](examples/TLOELO.pdf)
 * [Overcoming Common Objections Handout](examples/Common%20Objections.pdf)
 * Be an Effective Trainer
   - [Slides Only](examples/Be%20An%20Effective%20Trainer%20-%20Slides%20Only.pdf)
   - [Notes](examples/Be%20An%20Effective%20Trainer%20-%20Notes%20Pages.pdf) 
+* [Scenario - Overcoming Objections (for 3 learner breakouts)](examples/Discovery%20and%20Objection%20Scenario%201%20-%20Independent%20CSR.pdf)
+* [P&C B2B Insurance Marketing Call Flow](examples/Call%20Flow_Final.pdf)
  
 #### FAQs and Other Support Documents
 * [Property & Casualty Insurance FAQ](/examples/Call%20Team%20FAQ.pdf)
