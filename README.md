@@ -3,10 +3,17 @@ Welcome to my GitHub! I use this repo to showcase various content I've created t
 You can find me on [LinkedIn](http://www.linkedin.com/in/WPTK) or you can just download a copy of my [resume](examples/William%20Kane_Resume.pdf) here!
 
 #### Quick Experience Rundown
-* 6 years designing instructional material for learners, facilitators, and leaders in the healthcare space. Also led training sessions ranging from 1 hour to 10 weeks. 
-* 5 years creating FAQs and Support pages to support multi-location call centers
+* 10 years designing instructional material for learners, facilitators, and leaders in the healthcare space. Also led training sessions ranging from 1 hour to 10 weeks. 
+* 7 years creating FAQs and Support pages to support multi-location call centers
 * 10 years designing various materials such as sales training exercises, soft skills training courses, workbooks, handouts, posters, indices, and wiki pages. 
-* Proficient in Visio, PowerPoint, Excel, and Word (and various call center systems)
+
+#### Quick Systems Experience Check
+* Microsoft Office (including Project and Visio)
+* Madcap Flare
+* Apache Subversion
+* Articulate (including Storyline 360 and Rise)
+* Learning Management Systems (LMS) such as TalentLMS, D2L Brightspace, Blackboard, and Degreed.com
+* Various CRM and call routing systems (Salesforce Classic and Lightning, Avaya, Dialpad, Aircall, Five9)
 
 Note: Downloading files may make them easier to view. Depending on your resolution, they may look rather large due to Github's formatting.
 
