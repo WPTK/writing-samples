@@ -1,7 +1,5 @@
 Welcome to my GitHub! I use this repo to showcase various content I've created thoughout my career in Healthcare, Insurance, Biotech, and Tech.
 
-You can find me on [LinkedIn](http://www.linkedin.com/in/WPTK) or you can just download a copy of my [resume](examples/William%20Kane_Resume.pdf) here!
-
 #### Quick Experience Rundown
 * 10 years designing instructional material for learners, facilitators, and leaders in the healthcare space. Also led training sessions ranging from 1 hour to 10 weeks. 
 * 7 years creating FAQs and Support pages to support multi-location call centers
