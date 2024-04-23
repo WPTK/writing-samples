@@ -24,7 +24,6 @@ Note: Downloading files may make them easier to view. Depending on your resoluti
 * [Call Quality Team Manual](examples/Call%20Quality%20Team%20Manual_final.pdf)
 * [Quality Assurance Team Role Analysis & Implementation Review](examples/QA%20Team%20Implementation.pdf)
 * [Customer Facing Billing Email](examples/Check%20Paid%20to%20Patient%20Macro_final.pdf)
-* [Payer Types, Job Aid](http://htmlpreview.github.io/WPTK/writing-samples/examples/PayerTypesJobAid.html)
 
 #### Instructional Design
 * [Introducing Yourself & Making The Connection](examples/Call%20Team%20Intro%20%20Connection_Working%20Draft.pdf) 
