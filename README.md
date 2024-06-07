@@ -56,7 +56,7 @@ Feel free to explore my repository and download any files for easier viewing. De
 * [How to Disupute/Appeal an Interaction in RingCentral](examples/RingCentral%20Call%20Quality%20Appeals%20Process.pdf)
 
 #### Linkedin
-https://www.linkedin.com/wptk
+https://www.linkedin.com/in/wptk
 
 
 
